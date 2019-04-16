@@ -1,1 +1,3 @@
-### :point_right: This starter repo has moved to the [ionic-team/starters](https://github.com/ionic-team/starters/tree/master/ionic-angular/official/sidemenu) repo! :point_left:
+* Projeto ionic desenvolvido para a aula Programação Multiplataforma do curso Sistemas de Informação na Universidade São Judas Tadeu.
+
+* O projeto tem como objetivo consumir e exibir uma lista de filmes via API Movie DB.
